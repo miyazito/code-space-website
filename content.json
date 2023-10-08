@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "astronautText": "So let's start unraveling it together!",
+        "text": "But first we need to understand 4 basic concepts that need to be understood first in order to have a complete understanding of what magnetic reconnection is. Let's go!",
+        "title": ""
+    },
+    {
+        "id": 1,
+        "astronautText": "",
+        "text": "-----",
+        "title": "Solar Wind"
+    },
+    {
+        "id": 2,
+        "astronautText": "",
+        "text": "-----",
+        "title": "Magnetosphere"
+    },
+    {
+        "id": 3,
+        "astronautText": "",
+        "text": "-----",
+        "title": "Earth's Magnetic Field"
+    },
+    {
+        "id": 4,
+        "astronautText": "",
+        "text": "-----",
+        "title": "Interplanetary Magnetic Field"
+    },
+    {
+        "id": 5,
+        "astronautText": "Now that we've understood these basic concepts, let's get down to business!",
+        "text": "",
+        "title": ""
+    },
+    {
+        "id": 6,
+        "astronautText": "",
+        "text": "-----", 
+        "title": "What is Magnetic Reconnection"
+
+    },
+    {
+        "id": 7,
+        "astronautText": "So let's understand the importance of magnetic reconnection, do you know how it can impact on your life?",
+        "text": "", 
+        "title": ""
+    },
+     {
+        "id": 8,
+        "astronautText": "",
+        "text": "In a nutshell: the magnetic reconnection, when it comes into contact with the Earth's magnetic field, can affect the Earth's magnetism, even your cell phone!",
+        "title": ""
+    },
+    {
+        "id": 9,
+        "astronautText": "",
+        "text": "Not only could your cell phone leave you incommunicado as a result of telephone services being affected, but there could also be a power outage, damage to electrical and electronic objects and even the destruction of artificial satellites, such as GPS.",
+        "title": ""
+    },
+    {
+        "id": 10,
+        "astronautText": "",
+        "text": "----------------------------------------",
+        "title": ""
+    },
+    {
+        "id": 11,
+        "astronautText": "Okay, we understand the importance of uncovering the frequency at which magnetic reconnection takes place, but how is it possible to uncover this frequency?",
+        "text": "",
+        "title": ""
+    },
+    {
+        "id": 12,
+        "astronautText": "",
+        "text": "INTEGRATION WITH NEURAL NETWORK",
+        "title": ""
+    },
+    {
+        "id": 13,
+        "astronautText": "",
+        "text": "CONCLUSION",
+        "title": ""
+    }
+]
